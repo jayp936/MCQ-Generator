@@ -32,6 +32,6 @@ We welcome contributions from the developer community to enhance the MCQ Generat
 
 ## Support
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/mcq-generator/issues). We appreciate your feedback and are committed to making MCQ Generator the best it can be.
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/jayp936/MCQ-Generator/issues). We appreciate your feedback and are committed to making MCQ Generator the best it can be.
 
 Let's revolutionize the way MCQs are generated using the power of Generative AI and Streamlit! Happy generating!
