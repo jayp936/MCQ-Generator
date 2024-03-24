@@ -1,4 +1,4 @@
-# MCQ Generator: AI-Powered Multiple Choice Question Generation
+# AI-Powered Multiple Choice Question Generation Application
 
 Welcome to the MCQ Generator repository! This project is an innovative application designed to streamline the process of generating Multiple Choice Questions (MCQs) using advanced Generative AI libraries including OpenAI and LangChain, with a user-friendly interface built on Streamlit.
 
